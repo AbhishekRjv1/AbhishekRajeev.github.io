@@ -1,6 +1,6 @@
 # Abhishek Rajeev's GitHub Portfolio
 
-Welcome to my GitHub portfolio! Here, you'll embark on a journey through my diverse range of projects, each meticulously crafted to showcase my expertise in data engineering, data analysis, and visualization. From immersive Tableau visualizations that breathe life into complex datasets, to intricate Python data analysis scripts meticulously designed for insightful exploration, this space is a testament to my passion for unraveling the intricacies of data. 
+Welcome to my GitHub portfolio! Here, you'll embark on a journey through my diverse range of projects, each meticulously crafted to showcase my expertise in data engineering, data analysis, and visualization. From immersive Tableau visualizations that breathe life into complex datasets, to intricate SQL & Python data analysis scripts designed for insightful exploration, this space is a testament to my passion for unraveling the intricacies of data. 
 
 ## Projects
 
@@ -24,16 +24,14 @@ Meticulously analyzing medical appointment data, this work uncovers valuable pat
 
 ## About Me
 
-I am a passionate data enthusiast and software developer with a keen interest in exploring complex datasets and transforming them into actionable insights. My expertise lies in data engineering, data analysis, and visualization. With a background in computer science, I enjoy tackling challenging problems and creating meaningful solutions through code and data.
+I am a passionate data enthusiast and software developer with a keen interest in exploring complex datasets and transforming them into actionable insights. My expertise lies in data engineering, data analysis, and visualization. With work experience as a Data Engineer, I enjoy leveraging my technical skills and analytical mindset to tackle complex data challenges, optimize data pipelines, and contribute to innovative solutions that drive business growth and enhance decision-making processes.
 
 Feel free to explore my repositories and projects. If you have any questions, collaborations, or feedback, don't hesitate to reach out. Thank you for visiting!
 
 ## Connect with Me
 
-- **LinkedIn:** [Abhishek Rajeev](https://www.linkedin.com/in/abhishek-rajeev/)
-- **Email:** abhishekrjv@example.com
+- **LinkedIn:** [Abhishek Rajeev](www.linkedin.com/in/abhishekrjv)
+- **Email:** abhishekrjv1@gmail.com
 - **Portfolio Website:** [abhishekrjv1.github.io](https://abhishekrjv1.github.io/AbhishekRajeev.github.io/)
 
 ---
-
-Feel free to customize the content according to your preferences and add more details about your skills, achievements, or any other projects you want to highlight.
