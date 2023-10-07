@@ -30,7 +30,7 @@ Feel free to explore my repositories and projects. If you have any questions, co
 
 ## Connect with Me
 
-- **LinkedIn:** [Abhishek Rajeev](www.linkedin.com/in/abhishekrjv)
+- **LinkedIn:** [Abhishek Rajeev](https://www.linkedin.com/in/abhishekrjv)
 - **Email:** abhishekrjv1@gmail.com
 - **Portfolio Website:** [abhishekrjv1.github.io](https://abhishekrjv1.github.io/AbhishekRajeev.github.io/)
 
